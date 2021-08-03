@@ -35,6 +35,9 @@ Este respositória esta destinado a pequenos projetos feitos com Javascript no i
 #### Projeto 11 - Campo de pesquisa com efeito de esticar input
 ![preencimento-de-etapas](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/campo-de-pesquisa.jpg)
 
+#### Projeto 12 - Loading no carregamento de imagem
+![Loading-no-carregamento-de-imagem](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/loading-image.jpg)
+
 
 
 
