@@ -5,7 +5,7 @@
 }
 
 body {
-    background-color: #0A192F;
+    background-color: #74b9ff;
 }
 
 .container {
@@ -19,18 +19,20 @@ body {
 textarea {
     width: 100%;
     resize: none;
-    background-color: #172A46;
+    background-color: #0984e3;
     border: none;
     font-size: 16px;
     line-height: 16px;
     padding: 15px;
     border-radius: 5px;
-    color: #A8B2D1;
+    color: #FFFFFF;
+    font-size: 20px;
     outline: none;
 }
 
 p {
-    color: #E5E5E5;
+    color: #FFFFFF;
+    font-size: 20px;
     text-align: right;
     margin-top: 10px;
 
