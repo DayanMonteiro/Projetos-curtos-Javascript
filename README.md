@@ -38,6 +38,9 @@ Este respositória esta destinado a pequenos projetos feitos com Javascript no i
 #### Projeto 12 - Loading no carregamento de imagem
 ![Loading-no-carregamento-de-imagem](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/loading-image.jpg)
 
+#### Projeto 13 - Scroll com efeito de transição
+![scroll-com-efeito-de-transicao](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/conte%C3%BAdo%20com%20efeito%20de%20transicao.jpg)
+
 
 
 
