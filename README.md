@@ -41,9 +41,13 @@ Este respositória esta destinado a pequenos projetos feitos com Javascript no i
 #### Projeto 13 - Scroll com efeito de transição
 ![scroll-com-efeito-de-transicao](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/conte%C3%BAdo%20com%20efeito%20de%20transicao.jpg)
 
+#### Projeto 14 - Expandindo layout
+![animacao-em-layout](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/expandindo-layout.JPG)
 
+#### Projeto 15 - Formulário com animação
+![scroll-com-efeito-de-transicao](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/fomulario-com-efeito.jpg)
 
-
-
+#### Projeto 16 - Sons
+![scroll-com-efeito-de-transicao](https://github.com/DayanMonteiro/Projetos-curtos-Javascript/blob/main/assets/sons.JPG)
 
 
